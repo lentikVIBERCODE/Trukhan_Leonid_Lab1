@@ -28,4 +28,3 @@ jupyter nbconvert --to webpdf --no-input --execute 02_report.ipynb --output repo
 - `cleaning_log.csv` — журнал решений.
 - `campaign_list.csv` — 1924 клиента в трёх группах.
 
-`DEFENSE.md` — пояснения для подготовки к защите, не часть отчёта. Имя публичного репозитория по заданию: `Surname_Name_Lab1`.
